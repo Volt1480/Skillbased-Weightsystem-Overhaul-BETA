@@ -1,0 +1,5 @@
+name=Weight Overhaul (Beta)
+id=WeightOverhaul
+version=0.2.0
+description=Beta test version of Weight Overhaul. Skill based weight system for building and crafting materials. Wood scales with Carpentry, Metal scales with Metalworking, and consumables are reduced to 50%. Expect bugs and balance changes.
+poster=poster.png

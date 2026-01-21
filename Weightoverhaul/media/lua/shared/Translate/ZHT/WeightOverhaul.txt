@@ -1,0 +1,2 @@
+SurvivalGuide_Joypad_entrie4moreinfo=更多資訊
+SurvivalGuide_Joypad_entrie9moreinfo=更多資訊

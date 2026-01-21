@@ -1,0 +1,2 @@
+SurvivalGuide_Joypad_entrie4moreinfo=Подробнее
+SurvivalGuide_Joypad_entrie9moreinfo=Подробнее
