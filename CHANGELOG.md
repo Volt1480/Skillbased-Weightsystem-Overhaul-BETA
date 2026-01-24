@@ -1,4 +1,2 @@
 # Changelog
-
-## Unreleased
-- Initial test entry
+Test 1
